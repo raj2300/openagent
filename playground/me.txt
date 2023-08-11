@@ -1,0 +1,5 @@
+{{#user}}
+My name is Rajvardhan Singh.
+Here are my skills : html, css ,js ,react.js , node.js . 
+My email id is rajsingh14453@gmail.com.
+{{/user}}
